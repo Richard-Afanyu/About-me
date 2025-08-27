@@ -43,7 +43,7 @@ Wireframing | Prototyping | Design Systems | Accessibility
 ---
 
 ## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Richard-Afanyu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/richard-afanyu-9b2069324/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)](https://richardafanyu.netlify.app)  
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](mailto:your.richardafanyu5@gmail.com)  
 
