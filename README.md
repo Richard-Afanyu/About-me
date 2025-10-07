@@ -37,7 +37,7 @@ Wireframing | Prototyping | Design Systems | Accessibility
 ---
 
 ## 📊 GitHub Insights  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-Afanyu&show_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-Afanyu)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Afanyu&layout=compact&theme=default)  
 
 ---
